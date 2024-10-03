@@ -1,6 +1,6 @@
 {
     "name": "love-meter",
-    "description": "",
+    "description": "A love meter using a microbit.",
     "dependencies": {
         "core": "*"
     },
