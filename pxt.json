@@ -6,7 +6,8 @@
     },
     "files": [
         "main.ts",
-        "README.md"
+        "README.md",
+        "LICENSE.md"
     ],
     "targetVersions": {
         "target": "6.0.28",
