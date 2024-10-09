@@ -2,7 +2,7 @@
 
 > A love meter using a microbit.
 
-> Open this page at [https://EsotericEnderman.github.io/love-meter/](https://EsotericEnderman.github.io/love-meter/)
+> Open this page at [https://EsotericEnderman.github.io/microbit-love-meter/](https://EsotericEnderman.github.io/microbit-love-meter/)
 
 ## Use as Extension
 
@@ -11,7 +11,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/EsotericEnderman/love-meter** and import
+* search for **https://github.com/EsotericEnderman/microbit-love-meter** and import
 
 ## Edit This Project
 
@@ -19,7 +19,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/EsotericEnderman/love-meter** and click import
+* paste **https://github.com/EsotericEnderman/microbit-love-meter** and click import
 
 ## Metadata (Used for Search, Rendering)
 
