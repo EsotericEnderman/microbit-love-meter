@@ -1,5 +1,7 @@
 # Microbit Love Meter
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A love meter using a microbit.
 
 > Open this page at [https://EsotericEnderman.github.io/microbit-love-meter/](https://EsotericEnderman.github.io/microbit-love-meter/)
